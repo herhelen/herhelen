@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👧 My name is Helen Her.
+- 🌱 I’m currently learning backend web development using Java and Spring. And a life learner of Japanese.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/helen-her/)
+- ⚡ Fun fact:
+    - I know how to speak Brazilian Portuguese and Chinese Mandarin natively.
+
 <!--
 **herhelen/herhelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
